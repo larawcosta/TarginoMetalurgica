@@ -1,0 +1,50 @@
+body{
+    background: #C0C0C0 url("imagens/fundo.png");
+    font: 16px Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+a{
+    color: #353d4a;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    color: #353d4a;
+    font-size: 1.2em;
+}
+h2{
+    text-align: center;
+    color: #3b424e;
+    font-size: 1.1em;
+}
+img{
+    max-width: 90%;
+    height: auto;
+}
+.principal{
+    width: 900px;
+}
+.menu{
+    text-align: center;
+    background-color: #929aa0;
+    padding: 18px;
+}
+.conteudo{
+    text-align: center;
+    background: #899097;
+    padding: 10px;
+}
+.contato{
+    text-size-adjust: 50px;
+    text-align: center;
+    background: #899097;
+    padding: 20px;
+}
+#rodape {
+    text-align: center;
+    font-weight: bold;
+}
